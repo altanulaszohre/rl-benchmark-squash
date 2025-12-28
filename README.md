@@ -49,12 +49,12 @@ The following plots report episodic returns over **50 evaluation episodes** usin
 
 **100k Training Steps**
 <p align="center">
-  <img src="assets/eval_return_100k.jpg" width="850" alt="Evaluation episodic return across 50 episodes (100k steps)">
+  <img src="assets/eval_return_100k.jpeg" width="850" alt="Evaluation episodic return across 50 episodes (100k steps)">
 </p>
 
 **50k Training Steps**
 <p align="center">
-  <img src="assets/eval_return_50k.jpg" width="850" alt="Evaluation episodic return across 50 episodes (50k steps)">
+  <img src="assets/eval_return_50k.jpeg" width="850" alt="Evaluation episodic return across 50 episodes (50k steps)">
 </p>
 
 ---
